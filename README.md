@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElizeuFlores
-- 👀 I’m interested in Programação and Design Gráfico
-- 🌱 I’m currently learning statisc and internetional bussines
+- 👀 Sou interessado em Programação and Design Gráfico
+- 🌱 atualmente estou aprendendo sobre statisc and internetional bussines
 - 💞️ I’m looking to collaborate on ...
 
   Estou melhorando e aprendendo em Inteligencia Artificial Javascipt e Tecnologia Block-chain
