@@ -6,7 +6,6 @@
   Estou melhorando e aprendendo em Inteligencia Artificial Javascipt e Tecnologia Block-chain
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: sou carente as vezes e super interessado pelo futuro
 
 <!---
 ElizeuFlores/ElizeuFlores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
